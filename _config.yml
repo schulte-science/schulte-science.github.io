@@ -43,7 +43,7 @@ social-network-links:
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: schulte-science
-  #twitter: daattali
+  twitter: nickoschulte
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
@@ -61,8 +61,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+   ORCID: "https://orcid.org/0000-0001-6284-4987"
+   google-scholar: "https://scholar.google.com/citations?user=Jv6OvVMAAAAJ&hl=en&oi=ao"
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
@@ -72,8 +72,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 
 # Select which social network share links to show in posts
-#share-links-active:
-#  twitter: true
+share-links-active:
+twitter: true
 #  facebook: true
 #  linkedin: true
 #  vk: false
